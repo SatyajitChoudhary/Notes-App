@@ -1,4 +1,4 @@
-# [Notes Taking App](https://github.com/PurpleBooth) 
+# Notes Taking App 
 
 * ###   To read a note's body
 ```
